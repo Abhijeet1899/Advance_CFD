@@ -1,0 +1,7 @@
+to run the program write the following in terminal
+
+make
+
+gcc -c v.c
+
+./v

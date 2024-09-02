@@ -1,0 +1,20 @@
+how to run my code
+
+		run command - make
+
+--- for CG method
+	1. run command - gcc -c main.c
+	2. run command - ./main
+	
+---- for preconditioner jacobi
+	1. run command - gcc -c preconditioner_jacobi.c
+	2. run command - ./preconditioner_jacobi
+	
+---- for preconditioner ILU
+	1. run command - gcc -c preconditioner_ILU.c
+	2. run command - ./preconditioner_ILU
+	
+---- for preconditioner jacobi
+	1. run command - gcc -c preconditioner_SIP.c
+	2. run command - ./preconditioner_SIP
+	
